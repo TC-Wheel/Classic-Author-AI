@@ -1,8 +1,12 @@
 """This is the first thing."""
 
 
-def main():
+def my_fun():
     pass
+
+
+def main():
+    my_fun()
 
 
 if __name__ == "__main__":
